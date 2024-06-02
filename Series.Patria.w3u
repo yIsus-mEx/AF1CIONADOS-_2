@@ -1,0 +1,84 @@
+
+{
+"name": "PATRIA",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/Series.Patria.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/bwQ2yBRN/patria02.jpg",
+        "url": "https://filemoon.sx/d/fgal7c1yxdhn",
+       	"info": "[Español 2020]",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+		{
+		"name": "CAPITULO 2",
+        "image": "https://i.postimg.cc/bwQ2yBRN/patria02.jpg",
+        "url": "https://filemoon.sx/d/lfhhkw76w28c",
+       	"info": "[Español 2020]",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+		{
+		"name": "CAPITULO 3",
+        "image": "https://i.postimg.cc/bwQ2yBRN/patria02.jpg",
+        "url": "https://filemoon.sx/d/saooq33t10ux",
+       	"info": "[Español 2020]",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+		{
+		"name": "CAPITULO 4",
+        "image": "https://i.postimg.cc/bwQ2yBRN/patria02.jpg",
+        "url": "https://filemoon.sx/d/i1ht3gx6aa4s",
+       	"info": "[Español 2020]",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+		{
+		"name": "CAPITULO 5",
+        "image": "https://i.postimg.cc/bwQ2yBRN/patria02.jpg",
+        "url": "https://filemoon.sx/d/t2uu9hqyp64p",
+       	"info": "[Español 2020]",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+		{
+		"name": "CAPITULO 6",
+        "image": "https://i.postimg.cc/bwQ2yBRN/patria02.jpg",
+        "url": "https://filemoon.sx/d/c2edavkg59o7",
+       	"info": "[Español 2020]",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+		{
+		"name": "CAPITULO 7",
+        "image": "https://i.postimg.cc/bwQ2yBRN/patria02.jpg",
+        "url": "https://filemoon.sx/d/xt5mzkp0c1gc",
+       	"info": "[Español 2020]",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+		{
+		"name": "CAPITULO 8",
+        "image": "https://i.postimg.cc/bwQ2yBRN/patria02.jpg",
+        "url": "https://filemoon.sx/d/tw67nz4ticqz",
+       	"info": "[Español 2020]",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
+       	}
+	]
+}

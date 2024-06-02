@@ -1,0 +1,59 @@
+{
+"name": "Griselda",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Griselda.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+ 		{		
+		"name": "Episodio 01",
+ 		"info":"",
+ 		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+ 		"url":"https://upstream.to/l1eikebh9da5",
+ 		"isHost":"true",
+ 		"online":"true"
+		},
+		{
+		"name": "Episodio 02",
+		"info":"",
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://upstream.to/jypxn0mwegou",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 03",
+		"info":"",
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://upstream.to/vtulh4zf7cjk",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 04",
+		"info":"",
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://upstream.to/334zp2swak45",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 05",
+		"info":"",  
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://upstream.to/tle0enwm0kpq",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Episodio 06",
+		"info":"",  
+		"image":"https://laguiadelocio.com.ar/wp-content/uploads/2024/01/griselda-blanco-netflix.jpg",
+		"url":"https://upstream.to/16wn8nenz8or",
+		"isHost":"true",
+		"online":"true"
+		}
+	]
+}

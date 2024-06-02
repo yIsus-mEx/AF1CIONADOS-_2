@@ -1,0 +1,118 @@
+{
+"name": "Trigger Point",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Trigger.Point.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		
+		{
+		"name": "Temporada 01",
+ 		"image": "https://i.postimg.cc/RZ7tw1nF/Trigger-Point.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+ 				"url":"https://filemoon.sx/d/6ynn20z9aeji",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+				"url":"https://filemoon.sx/d/jf0vmc2r1ql8",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+				"url":"https://filemoon.sx/d/oq5wlvdz70e5",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+				"url":"https://filemoon.sx/d/v83zmnn7smuj",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+				"url":"https://filemoon.sx/d/7jke66ve4wl8",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://pics.filmaffinity.com/Trigger_Point_Fuera_de_control_Serie_de_TV-982762350-large.jpg",
+				"url":"https://filemoon.sx/d/kx2twzf51rzj",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		},
+		{
+		"name": "Temporada 02",
+ 		"image": "https://i.postimg.cc/tCVpYhQF/temporada-2.jpg",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://i.postimg.cc/tCVpYhQF/temporada-2.jpg",
+ 				"url":"https://vidmoly.me/w/9x57bozu0lk7",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://i.postimg.cc/tCVpYhQF/temporada-2.jpg",
+				"url":"https://vidmoly.me/w/fxrgy1juyeh1",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://i.postimg.cc/tCVpYhQF/temporada-2.jpg",
+				"url":"https://vidmoly.me/w/uvscrojoh40w",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://i.postimg.cc/tCVpYhQF/temporada-2.jpg",
+				"url":"https://vidmoly.me/w/f8r881hhcakc",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",
+				"image":"https://i.postimg.cc/tCVpYhQF/temporada-2.jpg",
+				"url":"https://embedmoon.xyz/d/hzllm8ticucg",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}

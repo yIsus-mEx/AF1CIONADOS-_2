@@ -1,0 +1,39 @@
+
+{
+"name": "VOLVER AL FUTURO",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/saga.VOLVER.AL.FUTURO.w3u",
+"image": "https://i.postimg.cc/1418CxTY/Volver-al-Futuro.webp",
+"telegram": "@yIsus_mEx",
+"info": "by YIsus_mEx",
+"stations":
+	[
+        {
+        "name": " Volver al Futuro ",
+        "info":"[Latino][1985]",
+        "image": "https://i.postimg.cc/1418CxTY/Volver-al-Futuro.webp",
+        "url":"https://www.linkbox.to/f-detail/ZnAzemRzMDAxcm520",
+        "userAgent" : "",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": " Volver al Futuro II ",
+        "info":"[Latino][1989]",
+        "image": "https://i.postimg.cc/52gtvK51/Volver-al-Futuro-II.webp",
+        "url":"https://www.tokyvideo.com/es/video/volver-al-futuro-2-1989-1080p-60fps",
+        "userAgent" : "",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": " Volver al Futuro III ",
+        "info":"[Latino][1990]",
+        "image": "https://images.justwatch.com/poster/305790389/s718/regreso-al-futuro-iii.jpg",
+        "url":"https://www.tokyvideo.com/es/video/volver-al-futuro-3-1990-1080p-60fps",
+        "userAgent" : "",
+        "isHost":"true",
+        "online":"true"
+        }
+    ]
+}

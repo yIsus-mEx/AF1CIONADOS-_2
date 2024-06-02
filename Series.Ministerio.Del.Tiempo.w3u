@@ -1,0 +1,85 @@
+{
+"name": "El Ministerio del Tiempo",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Ministerio.Del.Tiempo.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+	[
+ 		{
+		"name": "Temporada 04",
+ 		"image": "https://i.postimg.cc/KvgWKKGJ/ministerio-4.png",
+ 		"imageScale": "",
+ 		"info":"",
+ 		"stations":
+			[
+ 				{
+ 				"name": "Episodio 01",
+ 				"info":"",
+ 				"image":"https://es.web.img2.acsta.net/pictures/20/03/10/15/24/2338882.jpg",
+				"url":"https://filemoon.sx/d/pufw5ii8n5kr",
+				"userAgent": "PlusMediaPlayer/0.0.9",
+ 				"isHost":"true",
+ 				"online":"true"
+				},
+				{
+				"name": "Episodio 02",
+				"info":"",
+				"image":"https://es.web.img2.acsta.net/pictures/20/03/10/15/24/2338882.jpg",
+				"url":"https://filemoon.sx/d/4x6p1pgxczb3",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 03",
+				"info":"",
+				"image":"https://es.web.img2.acsta.net/pictures/20/03/10/15/24/2338882.jpg",
+				"url":"https://filemoon.sx/d/63zuo2lfb42h",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 04",
+				"info":"",
+				"image":"https://es.web.img2.acsta.net/pictures/20/03/10/15/24/2338882.jpg",
+				"url":"https://filemoon.sx/d/32976f6n151s",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 05",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/20/03/10/15/24/2338882.jpg",
+				"url":"https://filemoon.sx/d/bn2sc4jbsntr",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 06",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/20/03/10/15/24/2338882.jpg",
+				"url":"https://filemoon.sx/d/duvn0n5do0n1",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 07",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/20/03/10/15/24/2338882.jpg",
+				"url":"https://filemoon.sx/d/kqa1uceatmm3",
+				"isHost":"true",
+				"online":"true"
+				},
+				{
+				"name": "Episodio 08",
+				"info":"",  
+				"image":"https://es.web.img2.acsta.net/pictures/20/03/10/15/24/2338882.jpg",
+				"url":"https://filemoon.sx/d/fjh8795tjuvz",
+				"isHost":"true",
+				"online":"true"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,452 @@
+{
+"name": "NBA Finals 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.NBA.Finals.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+		{
+        "name": "1ra Ronda Eliminatoria",
+        "info":"",
+        "image": "https://i.postimg.cc/mrSRC8kk/1er-ronda.png",
+        "imageScale": "",
+        "groups":
+            [
+                {
+                "name": "Cavaliers Vs Magics",
+                "info":"",
+                "image": "https://i.postimg.cc/rm8grbks/Cavaliers-vs.png",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Game 05",
+                        "info":"[Ingles]",
+                        "image": "https://i.postimg.cc/QMDmvqbp/1.png",
+                        "url":"https://filemoon.sx/e/lrxtd2pl8jcs",
+				        "userAgent" : "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Game 04",
+                        "info":"[Ingles]",
+                        "image": "https://i.postimg.cc/QMDmvqbp/1.png",
+                        "url":"https://filemoon.sx/e/94futiglvrje",
+				        "userAgent" : "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Game 03",
+                        "info":"[Ingles]",
+                        "image": "https://i.postimg.cc/QMDmvqbp/1.png",
+                        "url":"https://filemoon.sx/e/j1lbmak68tjv",
+				        "userAgent" : "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Game 02",
+                        "info":"[Ingles]",
+                        "image": "https://i.postimg.cc/QMDmvqbp/1.png",
+                        "url":"https://filemoon.sx/e/s8jjdwb88g8b",
+				        "userAgent" : "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Game 01",
+                        "info":"[Ingles]",
+                        "image": "https://i.postimg.cc/QMDmvqbp/1.png",
+                        "url":"https://filemoon.sx/e/ufx8tpoh3cyl",
+				        "userAgent" : "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+                },
+                {
+                "name": "Timberwolves Vs Suns",
+                "info":"",
+                "image": "https://i.postimg.cc/HnmJnDDv/timvssuns.png",
+                "imageScale": "",
+                "stations":
+                   [
+                       {
+                       "name": "Game 04",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/BQqKWV9Z/2.png",
+                       "url":"https://filemoon.sx/e/zc3a6t6rcfd7",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 03",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/BQqKWV9Z/2.png",
+                       "url":"https://filemoon.sx/e/7kgihj0u488y",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 02",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/BQqKWV9Z/2.png",
+                       "url":"https://filemoon.sx/e/x0tjur8pg2sw",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/BQqKWV9Z/2.png",
+                       "url":"https://filemoon.sx/e/wxh8hszntrox",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                    ]
+                },
+                {
+                "name": "knicks vs 76ers",
+                "info":"",
+                "image": "https://i.postimg.cc/sDNV0dHF/knicks-vs-76ers.png",
+                "imageScale": "",
+                "stations":
+                   [
+                        {
+                       "name": "Game 06",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/PJNnYHvr/3.png",
+                       "url":"https://filemoon.sx/e/5qjdmpqknpcw",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 05",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/PJNnYHvr/3.png",
+                       "url":"https://filemoon.sx/e/wqmtkpw5ptqs",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 04",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/PJNnYHvr/3.png",
+                       "url":"https://filemoon.sx/e/naz823rlfdga",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 03",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/PJNnYHvr/3.png",
+                       "url":"https://filemoon.sx/e/ysurpi3yf0ja",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 02",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/PJNnYHvr/3.png",
+                       "url":"https://filemoon.sx/e/wzt67c1hout5",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/PJNnYHvr/3.png",
+                       "url":"https://filemoon.sx/e/1c5a23rke15w",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                },
+                {
+                "name": "Lakers vs Nuggets",
+                "info":"",
+                "image": "https://i.postimg.cc/VNzHq59z/lakersvsnuggets.png",
+                "imageScale": "",
+                "stations":
+                   [
+                       {
+                       "name": "Game 05",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/BbfwQG5V/4.png",
+                       "url":"https://filemoon.sx/e/pjz7r8w7bt1g",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 04",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/BbfwQG5V/4.png",
+                       "url":"https://filemoon.sx/e/ga5dv2wvgk7f",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 03",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/BbfwQG5V/4.png",
+                       "url":"https://filemoon.sx/e/imjplq7und99",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 02",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/BbfwQG5V/4.png",
+                       "url":"https://filemoon.sx/e/kza8pchmbnsb",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/BbfwQG5V/4.png",
+                       "url":"https://filemoon.sx/e/bh52vb2azpak",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                },
+                {
+                "name": "Heat vs Celtics",
+                "info":"",
+                "image": "https://i.postimg.cc/P56T8GZV/Heat-vs-Celtics.png",
+                "imageScale": "",
+                "stations":
+                    [
+                       {
+                       "name": "Game 05",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/FHwbQVVP/5.png",
+                       "url":"https://filemoon.sx/e/zn7ihrzq64ni",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 04",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/FHwbQVVP/5.png",
+                       "url":"https://filemoon.sx/e/dk6qy20s6f1y",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 03",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/FHwbQVVP/5.png",
+                       "url":"https://filemoon.sx/e/yhh58o0topw9",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 02",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/FHwbQVVP/5.png",
+                       "url":"https://filemoon.sx/e/kg956vh13s0j",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/FHwbQVVP/5.png",
+                       "url":"https://filemoon.sx/e/4kwtz3j107yx",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                },
+                {
+                "name": "Mavericks vs Clippers",
+                "info":"",
+                "image": "https://i.postimg.cc/028TGW9T/Mavericks-vs-Clippers.png",
+                "imageScale": "",
+                "stations":
+                    [
+                       {
+                       "name": "Game 05",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/HxdypZct/6.png",
+                       "url":"https://filemoon.sx/e/nyvotvmz074r",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 04",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/HxdypZct/6.png",
+                       "url":"https://filemoon.sx/e/0l6phsm1azcg",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 03",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/HxdypZct/6.png",
+                       "url":"https://filemoon.sx/e/e1qnuf58ms60",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 02",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/HxdypZct/6.png",
+                       "url":"https://filemoon.sx/e/andfuxezlq25",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/HxdypZct/6.png",
+                       "url":"https://filemoon.sx/e/2mx5j0brmu0e",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                },
+                {
+                "name": "Pacers vs Bucks",
+                "info":"",
+                "image": "https://i.postimg.cc/Y2xVS6Qb/Pacers-vs-Bucks.png",
+                "imageScale": "",
+                "stations":
+                    [
+                       {
+                       "name": "Game 06",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/tCZYHQvj/7.png",
+                       "url":"https://filemoon.sx/e/z8y8on4qmxtc",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 05",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/tCZYHQvj/7.png",
+                       "url":"https://filemoon.sx/e/vqlcvohjki20",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 04",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/tCZYHQvj/7.png",
+                       "url":"https://filemoon.sx/e/3iv2a1t1ybqd",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 03",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/tCZYHQvj/7.png",
+                       "url":"https://filemoon.sx/e/5u0jmwo26285",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 02",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/tCZYHQvj/7.png",
+                       "url":"https://filemoon.sx/e/om4mcclwhmj5",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/tCZYHQvj/7.png",
+                       "url":"https://filemoon.sx/e/eci26rkuuxub",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                },
+                {
+                "name": "Pelicans vs Thunder",
+                "info":"",
+                "image": "https://i.postimg.cc/FHm0H6XB/Pelicans-vs-Thunder.png",
+                "imageScale": "",
+                "stations":
+                    [
+                       {
+                       "name": "Game 04",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/dQ7yJyDp/8.png",
+                       "url":"https://filemoon.sx/e/h778v26vpblc",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 03",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/dQ7yJyDp/8.png",
+                       "url":"https://ok.ru/video/7743817517654",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 02",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/dQ7yJyDp/8.png",
+                       "url":"https://filemoon.sx/e/7jirpmu9qr43",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       },
+                       {
+                       "name": "Game 01",
+                       "info":"[Ingles]",
+                       "image": "https://i.postimg.cc/dQ7yJyDp/8.png",
+                       "url":"https://filemoon.sx/e/d2ximx5gfo4y",
+                       "userAgent" : "PlusMediaPlayer/0.0.9",
+                       "isHost":"true",
+                       "online":"true"
+                       }
+                   ]
+                }
+            ]
+        }
+    ]
+}

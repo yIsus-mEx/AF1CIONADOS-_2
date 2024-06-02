@@ -1,0 +1,215 @@
+{
+"name": "Indycar Series 2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Diferidos.Indycar.Series.2024.w3u",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups":
+    [
+        {
+        "name": "06 IndyCar Indianapolis 500 ",
+        "image": "https://i.postimg.cc/TYc5pPbJ/indy500.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/TYc5pPbJ/indy500.png",
+                "url" :"https://filemoon.sx/d/27p2hbqs38yh",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "",
+                "image": "https://i.postimg.cc/TYc5pPbJ/indy500.png",
+                "url" :"",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/TYc5pPbJ/indy500.png",
+                "url" :"https://ok.ru/video/7505747118739",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "05 IndyCar Road Rourse Sonsio",
+        "image": "https://i.postimg.cc/sDRCG9gh/sonsio-grand-prix-2024.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/sDRCG9gh/sonsio-grand-prix-2024.png",
+                "url" :"https://filemoon.sx/d/4a8yp59ah0h7",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/sDRCG9gh/sonsio-grand-prix-2024.png",
+                "url" :"https://filemoon.sx/d/855ryvbyzp39",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/sDRCG9gh/sonsio-grand-prix-2024.png",
+                "url" :"https://filemoon.sx/e/flcs60s57mcv",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "04 IndyCar Grand Prix Barbera Alabama",
+        "image": "https://i.postimg.cc/6pccvGT9/alabama.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6pccvGT9/alabama.png",
+                "url" :"https://filemoon.sx/d/bjbrhx6251ue",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6pccvGT9/alabama.png",
+                "url" :"https://filemoon.sx/d/ybzhyuur7unh",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6pccvGT9/alabama.png",
+                "url" :"https://filemoon.sx/e/8lzm02rmau7b",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "03 IndyCar Grand Prix Long Beach",
+        "image": "https://i.postimg.cc/8c8rJWxs/indycar.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/8c8rJWxs/indycar.png",
+                "url" :"https://filemoon.sx/d/6skbkxkktpzl",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/8c8rJWxs/indycar.png",
+                "url" :"https://filemoon.sx/d/brlp34m1dnxa",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/8c8rJWxs/indycar.png",
+                "url" :"https://filemoon.sx/e/ta9hq4xpqud8",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "02 IndyCar Grand Prix $1 Million Challenge",
+        "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
+                "url" :"https://filemoon.sx/d/4jtjpn51ozcm",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
+                "url" :"https://filemoon.sx/d/0i6v1m55jthh",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/6Qkp0JXF/1-Million.png",
+                "url" :"https://filemoon.sx/e/5y3gfgouxrgq",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        },
+        {
+        "name": "01 IndyCar Grand Prix of St. Petersburg",
+        "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
+        "stations":
+            [
+                {
+                "name": "Carrera",
+                "info":"[Latino]",
+                "online": "true",
+                "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
+                "url" :"https://embedme.xyz/d/w8r5ep5gsvst",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+                {
+                "name": "Carrera",
+                "info":"[Español]",
+                "online": "true",
+                "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
+                "url" :"https://embedme.xyz/d/q16rr7xxoj3c",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "isHost": "true"
+                },
+				{
+                "name": "Carrera",
+                "info":"[Ingles]",
+                "online": "true",
+                "image": "https://i.postimg.cc/X7DPh14Z/St-Peterburgo.png",
+                "url" :"https://embedmoon.pro/e/xah3pnml54dw",
+                "userAgent" : "",
+                "isHost": "true"
+                }
+            ]
+        }
+    ]
+}

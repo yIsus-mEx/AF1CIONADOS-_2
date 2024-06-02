@@ -1,0 +1,52 @@
+{
+"name": "Idol, The",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Series.Idol.w3u",
+"image": "https://pics.filmaffinity.com/the_idol-945233311-large.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Capitulo 1",
+		"info":"[Español][2023]",
+		"image":"https://pics.filmaffinity.com/the_idol-945233311-large.jpg",
+		"url":"https://filemoon.sx/d/48biduqbwtqw/The_Idol_1x01.mp4",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Capitulo 2",
+		"info":"[Español][2023]",
+		"image":"https://pics.filmaffinity.com/the_idol-945233311-large.jpg",
+		"url":"https://filemoon.sx/d/es7c02i4jbg2/The_Idol_1x02.mp4",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Capitulo 3",
+		"info":"[Español][2023]",
+		"image":"https://pics.filmaffinity.com/the_idol-945233311-large.jpg",
+		"url":"https://filemoon.sx/d/t2z05dhbk05f/The_Idol_1x03.mp4",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Capitulo 4",
+		"info":"[Español][2023]",
+		"image":"https://pics.filmaffinity.com/the_idol-945233311-large.jpg",
+		"url":"https://filemoon.sx/d/38pccpmrnu8k/The_Idol_1x04.mp4",
+		"isHost":"true",
+		"online":"true"
+		},
+		{
+		"name": "Capitulo 5",
+		"info":"[Español][2023]",
+		"image":"https://pics.filmaffinity.com/the_idol-945233311-large.jpg",
+		"url":"https://filemoon.sx/d/2f8d3gvhm3kj/The_Idol_1x05.mp4",
+		"isHost":"true",
+		"online":"true"
+		}
+
+]
+}
